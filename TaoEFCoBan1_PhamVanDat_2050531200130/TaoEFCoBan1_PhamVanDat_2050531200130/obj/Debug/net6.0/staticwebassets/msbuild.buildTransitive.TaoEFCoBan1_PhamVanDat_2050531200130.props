@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TaoEFCoBan1_PhamVanDat_2050531200130.props" />
+</Project>
